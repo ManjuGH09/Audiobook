@@ -5,6 +5,6 @@ Read any audio book using 12 lines of python
 To read PDF file using Python 
 ` pip install pypdf2 
 `
-<br/>To Read text (Text to speech) 
+<br/>To read text (Text to speech) 
 ` pip install pyttsx3
 `
